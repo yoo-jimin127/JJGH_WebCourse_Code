@@ -1,0 +1,38 @@
+* {
+    font-family: 'BMDoHyeon';
+}
+
+body {
+    background-color: rgb(255,120,137);;
+}
+
+.name {
+    text-align: center;
+    margin-top: 30%;
+    color: white;
+    font-size: 8rem;
+}
+
+.comment {
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 2rem;
+}
+
+.row {
+    text-align: center;
+}
+
+.button {
+    color: rgb(255,120,137);
+    font-size: 3rem;
+    background-color: white;
+    width: 50%;
+    height: 7%;
+    text-align: center;
+    border-radius: 1rem;
+    border: none;
+    margin-top: 20%;
+}
